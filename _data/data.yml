@@ -48,9 +48,29 @@ education:
       university: University of Gdansk
       time: 2002 - 2009
 
-    - degree: Polish Philology without Degree
+    - degree: Polish Philology Studies
       university: University of Gdansk
       time: 2005 - 2007
+
+    - degree: Oracle Certified Professional Java SE 6 Programmer
+      university: ORACLE
+      time: 2012
+
+    - degree: Functional Programming Principles in Scala
+      university: École Polytechnique Fédérale de Lausanne/ Coursera
+      time: 2014
+
+    - degree: Functional Program Design in Scala
+      university: École Polytechnique Fédérale de Lausanne/ Coursera
+      time: 2016
+
+    - degree: Professional Scrum Master I (PSM I)
+      university: Scrum.org
+      time: 2016
+
+    - degree: Schwierige Gespräche führen mit Blended Learning
+      university: Coverdale Austria
+      time: 2018
 
 experiences:
     - role: Senior Java Developer
