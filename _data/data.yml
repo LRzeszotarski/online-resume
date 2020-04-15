@@ -134,7 +134,9 @@ experiences:
         e-Banking, new products definition, implementing workflows for the new products like cards, credit cards, loans, mortgage loans, etc.
 
         - Spring
-        - JEE
+        - JEE/ WebSphere
+        - Tomcat
+        - JavaScript/ jQuery
 
     - role: Software Developer
       time: 2008 - 2010
@@ -143,7 +145,11 @@ experiences:
         Computer Science Department at University of Gdansk. Software for the university management, students, student houses, grades, degrees, etc.
 
         - Spring
-        - JEE
+        - JEE/ JBoss
+        - Tomcat
+        - Swing GUI-Toolkit
+        - Java Web Start
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -151,7 +157,7 @@ skills:
       - name: Java
         level: 98%
 
-      - name: Spring Boot & JEE
+      - name: Spring Boot/ Spring & JEE
         level: 98%
 
       - name: Scala & Groovy
