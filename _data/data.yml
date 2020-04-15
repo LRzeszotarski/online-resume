@@ -98,9 +98,11 @@ experiences:
         - Java 8
         - Kafka/ Kafka Streams
         - Apache Camel
+        - RabbitMQ
         - Angular 5
         - NodeJS
         - Groovy/ Spock Tests
+        - Docker
         - TDD
 
     - role: Senior Software Developer
@@ -129,7 +131,7 @@ experiences:
         - Tomcat
         - Swing GUI-Toolkit
         - JFreeChart
-        
+
     - role: Software Developer
       time: 2010 - 2012
       company: Meritum Bank ICB SA, Gdansk
