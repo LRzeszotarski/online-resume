@@ -126,7 +126,10 @@ experiences:
 
         - Spring
         - JEE
-
+        - Tomcat
+        - Swing GUI-Toolkit
+        - JFreeChart
+        
     - role: Software Developer
       time: 2010 - 2012
       company: Meritum Bank ICB SA, Gdansk
