@@ -98,8 +98,8 @@ experiences:
         - Java 8
         - Kafka/ Kafka Streams
         - Apache Camel
-        - Angular 1/2 - 5
-        - NodeJS/ LoopBack
+        - Angular 5
+        - NodeJS
         - Groovy/ Spock Tests
         - TDD
 
@@ -109,11 +109,23 @@ experiences:
       details: |
         A single page, multi channel web application, with microsevices in the backend.
 
+        - Spring Boot/ Spring
+        - JEE/ Wildfly 11
+        - Microservices Architecture
+        - Java 8
+        - Angular 1/2
+        - NodeJS/ LoopBack
+        - Groovy/ Spock Tests
+        - TDD
+
     - role: External IT Consultant
       time: 2012 - 2014
       company: OpenLink, Vienna
       details: |
         External Consultant and Software Developer in a project for the energy sector.
+
+        - Spring
+        - JEE
 
     - role: Software Developer
       time: 2010 - 2012
@@ -121,12 +133,17 @@ experiences:
       details: |
         e-Banking, new products definition, implementing workflows for the new products like cards, credit cards, loans, mortgage loans, etc.
 
+        - Spring
+        - JEE
+
     - role: Software Developer
       time: 2008 - 2010
       company: University of Gdansk, Gdansk
       details: |
         Computer Science Department at University of Gdansk. Software for the university management, students, student houses, grades, degrees, etc.
 
+        - Spring
+        - JEE
 skills:
     title: Skills &amp; Proficiency
 
