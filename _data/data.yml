@@ -59,21 +59,29 @@ experiences:
       details: |
         Banking Payment and Cards Team, payment transactions, PSD2, 3DS, agile and technical coaching, scrum team member
 
-        - Spring Boot
+        - Spring Boot/ Spring
         - JEE/ JBoss EAP
-        - Hibernate
+        - Microservices Architecture
         - Java 8
         - Kafka
-        - JUnit
-        - Mockito
-        - Hamcrest
-        - REST
+        - TDD
 
     - role: Senior System Engineer
       time: 2014 - 2018
       company: BearingPoint Technology GmbH, Vienna
       details: |
         Enterprise applications, architecture design and implementation of various solutions for the key company clients like A1 (A1 Telekom Austria) and ÖBB (Österreichische Bundesbahnen - Austrian Federal Railways) , agile and technical coaching, scrum team member
+
+        - Spring Boot/ Spring
+        - JEE/ Wildfly 11
+        - Microservices Architecture
+        - Java 8
+        - Kafka/ Kafka Streams
+        - Apache Camel
+        - Angular 1/2 - 5
+        - NodeJS/ LoopBack
+        - Groovy/ Spock Tests
+        - TDD
 
     - role: Senior Software Developer
       time: 2015 - 2017
