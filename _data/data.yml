@@ -59,6 +59,16 @@ experiences:
       details: |
         Banking Payment and Cards Team, payment transactions, PSD2, 3DS, agile and technical coaching, scrum team member
 
+        - Spring Boot
+        - JEE/ Wildfly 11
+        - Hibernate
+        - Java 8
+        - Kafka
+        - JUnit
+        - Mockito
+        - Hamcrest
+        - REST
+
     - role: Senior System Engineer
       time: 2014 - 2018
       company: BearingPoint Technology GmbH, Vienna
