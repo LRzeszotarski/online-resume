@@ -159,19 +159,40 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Spring Boot/ Spring
+        level: 98%
+
+      - name: JEE
+        level: 98%
+
+      - name: Microservices Architecture
+        level: 70%
+
       - name: Java
         level: 98%
 
-      - name: Spring Boot/ Spring & JEE
-        level: 98%
+      - name: Kafka/ Kafka Streams
+        level: 40%
+
+      - name: Apache Camel
+        level: 50%
+
+      - name: RabbitMQ
+        level: 70%
 
       - name: Scala & Groovy
         level: 70%
 
-      - name: Angular/ NodeJS
+      - name: Angular
+        level: 50%
+
+      - name: NodeJS
         level: 50%
 
       - name: TDD/BDD
+        level: 98%
+
+      - name: Groovy/ Spock Tests
         level: 98%
 
 footer: >
